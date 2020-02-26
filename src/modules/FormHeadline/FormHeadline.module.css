@@ -1,0 +1,7 @@
+.formHeadline {
+    font-size: 26px;
+    font-weight: 400;
+    color: var(--colors-grey800);
+    letter-spacing: -.24px;
+    margin: var(--spacers-dp16) 0;
+}

@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2019-11-21T01:03:30.979Z\n"
-"PO-Revision-Date: 2019-11-21T01:03:30.979Z\n"
+"POT-Creation-Date: 2020-02-26T11:05:21.745Z\n"
+"PO-Revision-Date: 2020-02-26T11:05:21.745Z\n"
 
 msgid ""
 "Create, modify, view and delete data element category options. Category "
@@ -216,4 +216,81 @@ msgid "The group you're trying to access does not exist"
 msgstr ""
 
 msgid "You don't have the permissions to view this page"
+msgstr ""
+
+msgid "Create a Data Element"
+msgstr ""
+
+msgid ""
+"Data elements are the base of DHIS2.  Data elements define what is actually "
+"recorded in the system, for example number of immunisations or number of "
+"cases of malaria."
+msgstr ""
+
+msgid "Information to help others identify this data element"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Short name"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Form name"
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+msgid "Descriptions"
+msgstr ""
+
+msgid "Data Setup"
+msgstr ""
+
+msgid "What type of this data element be used to capture"
+msgstr ""
+
+msgid "Domain type"
+msgstr ""
+
+msgid "Value type"
+msgstr ""
+
+msgid "Aggregation type"
+msgstr ""
+
+msgid "Field mask"
+msgstr ""
+
+msgid "Domain, Value and Aggregation Types"
+msgstr ""
+
+msgid ""
+"This is an example of a side-section that ce be included in a part of a "
+"form to give contextual help to a user. It is especially useful for giving "
+"help to an often misunderstood area."
+msgstr ""
+
+msgid ""
+"Domain refers to whether this data is for capture aggregated, anonymized "
+"data, or if the data element will be used to track data for specific "
+"entity, e.g. a person or patient."
+msgstr ""
+
+msgid "Read more about all value types here."
+msgstr ""
+
+msgid ""
+"Aggregation type is how the dta will be aggregated in analytics.  Data can "
+"be summed (added), averaged or other advanced analytic methods."
+msgstr ""
+
+msgid "Save Data Element"
+msgstr ""
+
+msgid "Cancel without saving"
 msgstr ""

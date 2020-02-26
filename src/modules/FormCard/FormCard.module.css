@@ -1,0 +1,4 @@
+.formCardOuter,
+.formCardInner {
+    padding: var(--spacers-dp16);
+}

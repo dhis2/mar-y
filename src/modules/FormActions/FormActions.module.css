@@ -1,0 +1,8 @@
+.formActions {
+    overflow: hidden;
+}
+
+.formAction {
+    float: left;
+    margin-right: var(--spacers-dp8);
+}

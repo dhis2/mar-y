@@ -15,7 +15,7 @@ const App = () => {
 
     return (
         <Provider store={store}>
-            <CssVariables colors />
+            <CssVariables colors spacers />
             <div className={styles.wrapper}>
                 <Router />
             </div>

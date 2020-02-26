@@ -1,0 +1,11 @@
+.formParagraph {
+    color: var(--colors-grey700);
+    font-size: 14px;
+    letter-spacing: -.13px;
+    line-height: 17px;
+    margin: 0 0 14px;
+}
+
+.formParagraph:last-child {
+    margin-bottom: 0;
+}

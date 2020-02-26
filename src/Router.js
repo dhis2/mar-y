@@ -10,7 +10,14 @@ import {
     getAppReady,
     loadAppData,
 } from './redux'
-import { All, DataElementList, Overview, Error, Loading } from './views'
+import {
+    All,
+    DataElementList,
+    DataElementAdd,
+    Overview,
+    Error,
+    Loading,
+} from './views'
 
 export const Router = () => {
     const dispatch = useDispatch()
@@ -72,6 +79,12 @@ export const Router = () => {
                      * =============================
                      */ ''
                 }
+                <Route
+                    exact
+                    path={'/edit/dataElementSection/dataElement/add'}
+                    component={DataElementAdd}
+                />
+
                 <ProtectedRoute
                     exact
                     path={dataElementSections.dataElement.path}

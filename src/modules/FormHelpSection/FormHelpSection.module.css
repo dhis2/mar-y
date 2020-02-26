@@ -1,0 +1,12 @@
+.formHelpSection {
+    background-color: var(--colors-grey100);
+    padding: var(--spacers-dp16);
+    padding-left: calc(var(--spacers-dp16) + 24px + var(--spacers-dp8));
+    position: relative;
+}
+
+.formHelpSectionIcon {
+    position: absolute;
+    left: var(--spacers-dp16);
+    top: var(--spacers-dp16);
+}
